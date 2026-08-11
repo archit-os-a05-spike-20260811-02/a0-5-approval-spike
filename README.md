@@ -9,3 +9,5 @@ It contains **no** production code, **no** secrets, **no** credentials and
 
 Both this repository and its organization are scheduled for deletion after
 independent review. Do not depend on either.
+
+<!-- direct-push probe -->
